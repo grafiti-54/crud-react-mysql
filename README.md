@@ -14,12 +14,12 @@ updatedAt DATE
 
 # Backend
 
-> cd backend
-> npm i
-> nodemon index
+ cd backend
+ npm i
+ nodemon index
 
 # Frondend
 
-> cd frontend
-> npm i
-> npm start
+ cd frontend
+ npm i
+ npm start
